@@ -25,3 +25,36 @@ img {
   max-width: 100%;
   display: block;
 }
+
+table {
+  border: 0.05rem solid;
+  border-collapse: collapse;
+  display: table;
+  border-collapse: separate;
+  box-sizing: border-box;
+  text-indent: initial;
+  border-spacing: 2px;
+  border-color: grey;
+}
+
+tr {
+  border: 0.05rem solid;
+  display: table-row;
+  vertical-align: inherit;
+  border-color: grey;
+}
+
+th {
+  display: table-cell;
+  vertical-align: inherit;
+  font-weight: 700;
+  text-align: -internal-center;
+  padding: 7px;
+}
+
+td {
+  display: table-cell;
+  vertical-align: inherit;
+  font-weight: 300;
+  padding: 7px;
+}
