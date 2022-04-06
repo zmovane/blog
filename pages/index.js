@@ -22,17 +22,8 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I'm Amovane, a software engineer from china. I'm learning
-          blockchain technology in recent time. I've made some opensource
-          projects on{" "}
-          <a href="https://github.com/amovane" target="_blank">
-            {" "}
-            Amovane's Github
-          </a>
-          .
-        </p>
-        <p>
-          This's my blog, I'll share some personal experiences about programing.
+          Amovane is a novel hypnotic agent used in the treatment of insomnia.
+          My life has been saved since I found Amovane.
         </p>
       </section>
 
