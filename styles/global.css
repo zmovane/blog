@@ -26,6 +26,7 @@ img {
   display: block;
 }
 
+/* table */
 table {
   border: 0.05rem solid;
   border-collapse: collapse;
@@ -57,4 +58,13 @@ td {
   vertical-align: inherit;
   font-weight: 300;
   padding: 7px;
+}
+
+/* code */
+code {
+  padding: 0.2em 0.4em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(175, 184, 193, 0.2);
+  border-radius: 6px;
 }
