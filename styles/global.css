@@ -27,26 +27,17 @@ img {
 }
 
 /* table */
-table {
-  border: 0.05rem solid;
+table,
+th,
+td {
+  border: 1px solid black;
   border-collapse: collapse;
-  display: table;
-  border-collapse: separate;
-  box-sizing: border-box;
-  text-indent: initial;
-  border-spacing: 2px;
-  border-color: grey;
-}
-
-tr {
-  border: 0.05rem solid;
-  display: table-row;
-  vertical-align: inherit;
-  border-color: grey;
+  border-color: gainsboro;
 }
 
 th {
   display: table-cell;
+  background-color: whitesmoke;
   vertical-align: inherit;
   font-weight: 700;
   text-align: -internal-center;
