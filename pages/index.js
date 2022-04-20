@@ -23,7 +23,6 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           Amovane is a novel hypnotic agent used in the treatment of insomnia.
-          My life has been saved since I found Amovane.
         </p>
       </section>
 
