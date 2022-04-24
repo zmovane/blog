@@ -1,5 +1,5 @@
 ---
-title: "Geetest 逆向分析"
+title: "Geetest 滑动验证逆向分析"
 date: "2022-03-08"
 tags: ["geetest", "reverse-engineering"]
 categories: ["reverse-engineering"]
